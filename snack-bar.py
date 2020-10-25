@@ -70,5 +70,5 @@ def sales_report():
     pass
 
 
-# login()
-menu()
+login()
+
